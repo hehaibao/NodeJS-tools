@@ -13,7 +13,7 @@
 
 2. replaceImport.js -- 替换静态页面中 公共部分代码
 
-   比如：我想替换某个HTML文件中 <link rel="import" href="header.html"> <link rel="import" href="footer.html"> 这句代码为已经写好的代码块
+   比如：我想替换某个HTML文件中 ```javascript <link rel="import" href="header.html"> <link rel="import" href="footer.html">``` 这句代码为已经写好的代码块
 
    执行命令： node replaceImport
 
